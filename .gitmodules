@@ -1,0 +1,3 @@
+[submodule "VideosSampleCode"]
+	path = VideosSampleCode
+	url = https://github.com/mCodingLLC/VideosSampleCode.git
