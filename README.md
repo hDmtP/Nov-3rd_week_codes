@@ -9,7 +9,7 @@
 - [x] 2. **16th Nov**
 
   - GitHub __Actions__
-    > [Learn gutHub Actions](https://docs.github.com/en/actions/learn-github-actions)
+    > [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
     - ![Tests](https://github.com/hdmtp-s-basement/Nov-3rd_week_codes/actions/workflows/github_action.yml/badge.svg)
 
 
