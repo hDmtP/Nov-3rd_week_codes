@@ -6,6 +6,13 @@
     > [GitHub](https://github.com/mCodingLLC) [YouTube](youtube.com/c/mCodingWithJamesMurphy) [Patreon](https://www.patreon.com/mCoding)
     - excellent Python coder and mentor. His name is `James Murphy`
 
+- [x] 2. **16th Nov**
+
+  - GitHub __Actions__
+    > [Learn gutHub Actions](https://docs.github.com/en/actions/learn-github-actions)
+    - ![Tests](https://github.com/hdmtp-s-basement/Nov-3rd_week_codes/actions/workflows/github_action.yml/badge.svg)
+
+
 
 <hr>
 <div align="center">
@@ -13,7 +20,8 @@
 Day      | Score
 :--------------:|:----------------:
 **15th Nov** | **0.5**
-***Total***     | ***0.5***
+**16th Nov** | **0.5**
+***Total***     | ***1***
      
 </div>
 <hr>
