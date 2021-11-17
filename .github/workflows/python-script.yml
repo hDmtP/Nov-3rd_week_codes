@@ -1,7 +1,7 @@
-name - python script
-on - [push]
+name: python script
+on: [push]
 jobs:
-  Run Python Scripts:
+  Run_Python_Scripts:
     runs-on: ubuntu-latest
     steps:
       - name: Display the path
