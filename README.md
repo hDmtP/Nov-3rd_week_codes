@@ -12,7 +12,10 @@
     > [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
     - ![Tests](https://github.com/hdmtp-s-basement/Nov-3rd_week_codes/actions/workflows/github_action.yml/badge.svg)
 
+- [x] 3. **17th Nov**
 
+  - `from youtube_dl import YoutubeDL`
+    > [youtube_dl](https://pypi.org/project/youtube_dl/)
 
 <hr>
 <div align="center">
