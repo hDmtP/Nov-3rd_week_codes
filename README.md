@@ -26,6 +26,20 @@
 
   -  ![Tests](https://github.com/hdmtp-s-basement/Nov-3rd_week_codes/actions/workflows/main.yml/badge.svg)
 
+
+  -  GitHub Contribution Fetcher in `python`
+      > pip install [githubcontributions](https://github.com/bcongdon/github_contributions)
+      
+``` python
+from github_contributions import GithubUser
+import datetime
+user = GithubUser('hdmtp')
+contribs = user.contributions()
+contribs_2021 = user.contributions(start_date='2021-11-14', end_date=str(datetime.date.today()))
+print(sum([day.count for day in contribs_2021.days]))
+```
+
+
 <hr>
 <div align="center">
 
@@ -36,7 +50,8 @@ Day      | Score
 **17th Nov** | **0.5**
 **18th Nov** | **0**
 **19th Nov** | **0.5**
-***Total***     | ***2.0***
+**20th Nov** | **0.5**
+***Total***     | ***2.5***
      
 </div>
 <hr>
