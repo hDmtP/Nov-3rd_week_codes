@@ -1,0 +1,24 @@
+{
+  "name": "nov-3rd_week_codes",
+  "version": "1.0.0",
+  "description": "- [x] 1. **15th Nov**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hDmtP/Nov-3rd_week_codes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hDmtP/Nov-3rd_week_codes/issues"
+  },
+  "homepage": "https://github.com/hDmtP/Nov-3rd_week_codes#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mustache": "^4.2.0",
+    "webpack": "^5.64.1"
+  }
+}
