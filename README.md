@@ -21,6 +21,11 @@
     > [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
     - ![Tests](https://github.com/hdmtp-s-basement/Nov-3rd_week_codes/actions/workflows/python-script.yml/badge.svg)
 
+- [ ] 4. **18th Nov** - ~~_NULL_~~
+- [x] 5. **19th Nov**
+
+  -  ![Tests](https://github.com/hdmtp-s-basement/Nov-3rd_week_codes/actions/workflows/main.yml/badge.svg)
+
 <hr>
 <div align="center">
 
@@ -29,7 +34,9 @@ Day      | Score
 **15th Nov** | **0.5**
 **16th Nov** | **0.5**
 **17th Nov** | **0.5**
-***Total***     | ***1.5***
+**18th Nov** | **0**
+**19th Nov** | **0.5**
+***Total***     | ***2.0***
      
 </div>
 <hr>
