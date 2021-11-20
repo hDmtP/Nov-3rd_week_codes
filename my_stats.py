@@ -86,6 +86,12 @@ You can also use words, to fit your writing style more closely[^note].
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 '''
 
+sc = f'''
+Day      | Score
+:--------------:|:----------------:
+**{datetime.date.today()}** | **{sum([day.count for day in contribs_2021.days])}**
+     '''
+
 f = open("score.md", "w")
-f.write(readme + "\n" + f"Score : {sum([day.count for day in contribs_2021.days])}")
+f.write(readme + "\n" + f"Score : {sum([day.count for day in contribs_2021.days])}" + sc)
 f.close()
