@@ -26,6 +26,7 @@
 
   -  ![Tests](https://github.com/hdmtp-s-basement/Nov-3rd_week_codes/actions/workflows/main.yml/badge.svg)
 
+- [x] 6. **20th Nov**
 
   -  GitHub Contribution Fetcher in `python`
       > pip install [githubcontributions](https://github.com/bcongdon/github_contributions)
@@ -38,6 +39,10 @@ contribs = user.contributions()
 contribs_2021 = user.contributions(start_date='2021-11-14', end_date=str(datetime.date.today()))
 print(sum([day.count for day in contribs_2021.days]))
 ```
+ 
+
+   - ![Tests](https://github.com/hdmtp-s-basement/Nov-3rd_week_codes/actions/workflows/score.yml/badge.svg)
+     > [Source](https://canovasjm.netlify.app/2020/11/29/github-actions-run-a-python-script-on-schedule-and-commit-changes/) 
 
 
 <hr>
@@ -50,8 +55,8 @@ Day      | Score
 **17th Nov** | **0.5**
 **18th Nov** | **0**
 **19th Nov** | **0.5**
-**20th Nov** | **0.5**
-***Total***     | ***2.5***
+**20th Nov** | **0.5 + 1**
+***Total***     | ***3.5***
      
 </div>
 <hr>
