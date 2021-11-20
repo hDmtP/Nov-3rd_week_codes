@@ -16,7 +16,7 @@ jobs:
       - name: Setup python3
         uses: actions/setup-python@v1
         with:
-          node-version: '3.9.2'
+          python-version: '3.9.2'
       
       - name: Install python packages
         run: |
