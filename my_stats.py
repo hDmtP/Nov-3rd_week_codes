@@ -9,8 +9,6 @@ contribs_2021 = user.contributions(start_date='2021-11-14', end_date=str(datetim
 
 
 sc = f'''
-Day      | Score
-:--------------:|:----------------:
 **{datetime.date.today()}** | **{sum([day.count for day in contribs_2021.days])}**
      '''
 
